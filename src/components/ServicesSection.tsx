@@ -5,12 +5,12 @@ const ServicesSection = () => {
   const services = [
     {
       icon: FileText,
-      title: "Generador de Facturas Automatizado",
-      description: "Crea facturas en segundos desde Telegram o tu web, sin complicaciones."
+      title: "Generador de Leads",
+      description: "Captura y gestiona leads automáticamente desde múltiples canales digitales para maximizar tus oportunidades de venta."
     },
     {
       icon: Phone,
-      title: "Asistente de Reservas por Llamada",
+      title: "Asistente de Reservas por Llamada (Próximamente)",
       description: "Recibe y gestiona citas mediante un agente de voz disponible 24/7 para tus clientes."
     },
     {

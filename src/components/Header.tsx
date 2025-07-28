@@ -16,8 +16,9 @@ const Header = () => {
           <div className="flex items-center">
             <img 
               src="/lovable-uploads/9ff4ea5e-9504-4649-95f4-1b1690adeb0e.png" 
-              alt="Fluxi" 
-              className="h-8 w-auto"
+              alt="Logo" 
+              className="h-8 w-auto cursor-pointer hover:opacity-80 transition-opacity duration-200"
+              onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             />
           </div>
 

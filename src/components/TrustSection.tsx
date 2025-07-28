@@ -8,7 +8,7 @@ const TrustSection = () => {
   ];
 
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-background">
+    <section id="trust-section" className="py-20 px-4 sm:px-6 lg:px-8 bg-background">
       <div className="max-w-4xl mx-auto text-center">
         <div className="animate-fade-in">
           <h2 className="text-3xl md:text-4xl font-inter font-bold text-foreground mb-8">
